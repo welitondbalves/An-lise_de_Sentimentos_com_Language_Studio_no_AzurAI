@@ -8,3 +8,11 @@ Conhecendo o Estudio de fala
 ![Image](https://github.com/user-attachments/assets/2130929f-5852-44a9-b832-ac9a3179f1a9)
 ![Image](https://github.com/user-attachments/assets/2cbd291e-b226-40bd-9777-2348026a809d)
 Conhecendo o Language Studio
+criar novo recurso
+![Image](https://github.com/user-attachments/assets/5635f288-cffc-4b5d-be82-09474eca8164)
+IA + Machine Learning
+![Image](https://github.com/user-attachments/assets/287c1468-167f-4f38-a95d-3d2691503e44)
+Serviço de Linguagem
+![Image](https://github.com/user-attachments/assets/a4041186-48c1-4e83-9ad2-4bcd5ed73c2d)
+Criar novo recurso
+![Image](https://github.com/user-attachments/assets/0990f80f-8b24-4dc0-85cb-1d85ee5d2f77)
