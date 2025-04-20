@@ -1,4 +1,4 @@
-# An-lise_de_Sentimentos_com_Language_Studio_no_AzurAI
+# Analise de Sentimentos com Language Studio no AzurAI
 Conhecendo o Estudio de fala
 ![Image](https://github.com/user-attachments/assets/652666dd-0019-4dcd-8505-09da25ab94ff)
 ![Image](https://github.com/user-attachments/assets/ffb50a07-7344-4717-a05a-ede9d9a13368)
